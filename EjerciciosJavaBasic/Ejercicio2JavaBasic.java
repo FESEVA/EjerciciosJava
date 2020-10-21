@@ -7,6 +7,6 @@ public class Ejercicio2JavaBasic {
 	public static void main(String[] args) {
 		System.out.println("Fernando Iván Sevilla Valderrama");
 		System.out.println("C/ Maestro Flecán, 33");
-		System.out.println("607907067");
+		System.out.println("607907000");
 	}
 }
