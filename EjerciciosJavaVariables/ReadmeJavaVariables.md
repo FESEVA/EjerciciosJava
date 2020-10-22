@@ -1,7 +1,7 @@
 # EjerciciosJavaVariables
 In this repository I have stored all the JavaBasic exercises done in [@IESCampanillas](https://github.com/IESCampanillas).
 
-### • [Ejercicio1JavaVariables(https://github.com/FESEVA/EjerciciosJava/blob/main/EjerciciosJavaBasic/Ejercicio1JavaBasic.java)
+### • [Ejercicio1JavaVariables](https://github.com/FESEVA/EjerciciosJava/blob/main/EjerciciosJavaBasic/Ejercicio1JavaBasic.java)
 Write a program that shows your name on the screen.
 ![Image of Ejercicio1JavaBasic](https://github.com/FESEVA/EjerciciosJava/blob/main/EjerciciosJavaBasic/ImagesJavaBasic/1.jpeg)
 
