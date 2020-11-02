@@ -9,7 +9,7 @@ Exercises knowing basic concepts.
 Exercises knowing variable concepts.
 
 
-## • [EjerciciosJavaVariables](https://github.com/FESEVA/EjerciciosJava/blob/main/EjerciciosJavaLeerDatos/ReadmeJavaLeerDatos.md)
+## • [EjerciciosJavaLeerDatos](https://github.com/FESEVA/EjerciciosJava/blob/main/EjerciciosJavaLeerDatos/ReadmeJavaLeerDatos.md)
 Exercises knowing to read data concepts.
 
 
