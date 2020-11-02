@@ -5,5 +5,5 @@
 Exercises knowing basic concepts.
 
 
-## • [EjerciciosJavaVariables](https://github.com/FESEVA/EjerciciosJava/tree/main/EjerciciosJavaVariables)
+## • [EjerciciosJavaVariables](https://github.com/FESEVA/EjerciciosJava/blob/main/EjerciciosJavaVariables/ReadmeJavaVariables.md)
 Exercises knowing variable concepts.
