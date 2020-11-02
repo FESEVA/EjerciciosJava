@@ -1,25 +1,24 @@
 /*
-* Escribe un programa en el que se declaren las variables enteras x e y. Asígnales
-  los valores 144 y 999 respectivamente. A continuación, muestra por pantalla
-  el valor de cada variable, la suma, la resta, la división y la multiplicación.
+* Escribe un programa que declare variables de tipo char y de tipo String . Intenta
+mostrarlas por pantalla todas juntas en la misma línea y con una sola sentencia
+de Java (con un solo println ) ¿es posible?
 *
 * @author Fernando Iván Sevilla Valderrama
 */
-public class Ejercicio1JavaVariables {
+public class Ejercicio8JavaVariables {
 	public static void main(String[] args) {
 		
-		int x = 144;
-		System.out.println("La variable x tiene un valor de : " + x);
-		int y = 999;
-		System.out.println("La variable y tiene un valor de : " + y);
+		char letra1 = 't';
+		char letra2 = 'a';
+		char letra3 = 'r';
+		char letra4 = 'd';
+		char letra5 = 'e';
 		
-		int suma = x + y;
-		System.out.println(" x + y = " + suma);
-		int resta = x -y;
-		System.out.println(" x - y = " + resta);
-		int multiplicacion = x * y;
-		System.out.println(" x * y = " + multiplicacion);
-		double division = (double) x / (double) y; //Con el casting se pone "double" para resultado decimal con variables int.
-		System.out.println(" x / y = " + division);
+		String cadena = "tarde";
+		
+		System.out.println("\033[33m Si es posible.\033[39;49m");
+		
+		System.out.println(""+letra1+""+letra2+""+letra3+""+letra4+""+letra5+" ¡Ve antes de que sea "+cadena+"!");
+		
 	}
 }
