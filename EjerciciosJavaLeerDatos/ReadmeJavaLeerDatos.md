@@ -1,5 +1,5 @@
-# EjerciciosJavaVariables
-In this repository I have stored all the JavaVariables exercises done in [@IESCampanillas](https://github.com/IESCampanillas).
+# EjerciciosJavaLeerDatos
+In this repository I have stored all the Reading Data Java exercises done in [@IESCampanillas](https://github.com/IESCampanillas).
 
 ### • [Ejercicio1JavaLeerDatos](https://github.com/FESEVA/EjerciciosJava/blob/main/EjerciciosJavaLeerDatos/Ejercicio1JavaLeerDatos.java)
 Make a program that asks for two numbers and then displays the result of its multiplication.
